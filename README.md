@@ -1,5 +1,5 @@
-### Hi there 👋, Golnaz Salehi
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋,
+
 
 I am an Electrical Engineering student and research assistant at University of Tehran. My primary research interests are in the fields of Wireless Communication, Information Theory, and Optimization. I am also interested inRadar Systems and Signal Processing.
 
