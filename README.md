@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Golnaz Salehi
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am an Electrical Engineering student and research assistant at University of Tehran. My primary research interests are in the fields of Wireless Communication, Information Theory, and Optimization. I am also interested inRadar Systems and Signal Processing.
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/golnaz-salehi//)  
+
+
 
 <!--
 **golnazsalehi/golnazsalehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
