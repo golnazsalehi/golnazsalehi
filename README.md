@@ -1,7 +1,7 @@
-### Hi I'm Golnaz 👋,
+![image](https://github.com/golnazsalehi/golnazsalehi/assets/69970956/7829e901-b585-4e14-bec1-42e58bb73ad3)### Hi I'm Golnaz 👋,
 
 
-I am an Electrical Engineering student and research assistant at University of Tehran. My primary research interests are in the fields of Wireless Communication, Information Theory, and Optimization. I am also interested in Radar Systems and Signal Processing.
+I am an Electrical Engineering student and research assistant at University of Tehran. My primary research interests are in the fields of Wireless Communication, Information Theory, and Mathematical Optimization. I am also interested in Radar Systems and Signal Processing.
 
 
 
